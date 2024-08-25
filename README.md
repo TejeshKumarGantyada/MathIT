@@ -1,1 +1,1 @@
-# MathIT-
+# MathIT

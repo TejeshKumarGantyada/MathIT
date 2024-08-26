@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MathIt" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/superDarkGreen</item>
+        <item name="colorPrimaryVariant">@color/superDarkGreen</item>
+        <item name="colorOnPrimary">@color/superDarkGreen</item>
+
+        <item name="colorSecondary">@color/superDarkGreen</item>
+        <item name="colorSecondaryVariant">@color/superDarkGreen</item>
+        <item name="colorOnSecondary">@color/superDarkGreen</item>
+
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.MathIt" parent="Base.Theme.MathIt" />
+
+    <style name="Game.Theme.MathIt" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/superDarkGreen</item>
+        <item name="colorPrimaryVariant">@color/superDarkGreen</item>
+        <item name="colorOnPrimary">@color/superDarkGreen</item>
+
+        <item name="colorSecondary">@color/superDarkGreen</item>
+        <item name="colorSecondaryVariant">@color/superDarkGreen</item>
+        <item name="colorOnSecondary">@color/superDarkGreen</item>
+
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    
+
+    <style name="End.Theme.MathIt" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/superDarkGreen</item>
+        <item name="colorPrimaryVariant">@color/superDarkGreen</item>
+        <item name="colorOnPrimary">@color/superDarkGreen</item>
+        
+        <item name="colorSecondary">@color/superDarkGreen</item>
+        <item name="colorSecondaryVariant">@color/superDarkGreen</item>
+        <item name="colorOnSecondary">@color/superDarkGreen</item>
+        
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    
+
+</resources>
